@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Este proyecto ha sido desarrollado en colaboración con mi compañero Juma Fernández ([link a LinkedIn](poner_link_a_LinkedIn)). El objetivo principal es crear una página web moderna y funcional para el gimnasio de boxeo Tam Finito. La web proporcionará información detallada sobre el gimnasio, incluyendo la ubicación, horarios de las clases, precios y más. Por cuestiones de privacidad, no subimos el código, pero a continuación se explican las tecnologías utilizadas y cómo funciona la página.
+Este proyecto ha sido desarrollado en colaboración con mi compañero ([Juan Manuel Fernandez Fuster](https://www.linkedin.com/in/juan-manuel-fernández-fuster-a72bba191/)). El objetivo principal es crear una página web moderna y funcional para el gimnasio de boxeo Tam Finito. La web proporcionará información detallada sobre el gimnasio, incluyendo la ubicación, horarios de las clases, precios y más. Por cuestiones de privacidad, no subimos el código, pero a continuación se explican las tecnologías utilizadas y cómo funciona la página.
 
 ## Tecnologías Utilizadas
 
